@@ -21,5 +21,6 @@ depends: [
   "dune" {>= "1.0"}
   "odoc" {build}
   "conf-brotli"
+  "reason" {build}
 ]
 synopsis: "ReasonML bindings to the compression algorithm/code Brotli"
